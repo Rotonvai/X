@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'ultra', 'ultra' ;
     box-sizing: border-box;
     
 }
@@ -20,12 +20,24 @@
 }
 
 h1 {
-    display: block;
-    font-size: 5em;
+    
+    font-size: 7em;
     margin-block-start: .67em;
-    margin-block-end: 4.00em;
-    margin-inline-start: 152.5px;
-    margin-inline-end:-500px;
+    margin-block-end: 2.7em;
+    margin-inline-start: 313px;
+    margin-inline-end:-305px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    color: #737373;
+}
+
+h2 {
+    
+    font-size: 3em;
+    margin-block-start: 0.69em;
+    margin-block-end: 5.60em;
+    margin-inline-start: 156.5px;
+    margin-inline-end:-400px;
     font-weight: bold;
     unicode-bidi: isolate;
     color: #ffffff;
