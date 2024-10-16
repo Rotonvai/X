@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Shadows Into Light", cursive;
+    font-weight: bolder;
     font-weight: 400;
     font-style: normal;
     
@@ -33,15 +33,15 @@ h1 {
     margin-inline-end:-260px;
     font-weight: bolder ;
     unicode-bidi: isolate;
-    color: #737373;
+    color: 	#807d7d;
 }
 
 h2 {
-    
+    font-family: "Mate", serif;
     font-size: 3em;
     margin-block-start: 0.69em;
     margin-block-end: 5.90em;
-    margin-inline-start: 156.5px;
+    margin-inline-start: 120px;
     margin-inline-end:-390px;
     font-weight: bold;
     unicode-bidi: isolate;
@@ -66,7 +66,7 @@ h2 {
     outline: none;
     padding: 24px 20px;
     font-size: 20px;
-    color: #cac7ff;
+    color: #ffffff;
 }
 
 ::placeholder {
@@ -78,7 +78,7 @@ h2 {
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    background: #58629b;
+    background: #000000;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -109,4 +109,4 @@ h2 {
         height: 100%;
     }
 }
-   
+  
